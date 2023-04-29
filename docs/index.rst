@@ -2,6 +2,10 @@
 
 django-reversion
 ================
+.. toctree::
+   :maxdepth: 1
+
+   index
 
 **django-reversion** is an extension to the Django web framework that provides
 version control for model instances.
